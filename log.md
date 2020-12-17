@@ -79,13 +79,12 @@ HTMLサーバーで、アクセスログ、エラーログを出力。そうそ�
 ***
 ***
 
-### 6日目:　 2020年12月16日（水）<!DOCTYPE html>
+### 7日目:　 2020年12月17日（木）<!DOCTYPE html>
 
 
 #### 今日の進捗 : 
-- N予備校-Programing（3-17 HerokuでWeb serviceを公開、18 認証で利用者を制限するBasic authentication）
-- freeCodeCamp（Basic CSS 100%）(Applied Visual Design 10%)
-
+- N予備校-Programing（3-19 Cookieを使った秘密の匿名掲示板）
+- HTML/CSS (GitHub Pages作成)
 #### 感想 :　 
-Herokuで、作成したアンケート（焼肉としゃぶしゃぶ、どっちが好き？と、パンとごはんならどっちが好き？）を世界に公開！そして、ついにセキュリティ関連の授業に突入しました！まったくの独学ですが、少しセキュリティの勉強をしていたので楽しいです（難しくて挫折した積読本もたくさんある笑）。
+なんとか今日もプログラミング学習できました！CSS練習用にGitHub PagesでWebページ作成。なかなか思うようにいかない笑
 ***
