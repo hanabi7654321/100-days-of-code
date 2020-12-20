@@ -116,9 +116,9 @@ HTMLだけだと機能しない。ワードプレスだとプラグイン入れ�
 - Holiday Hack Challenge
 
 #### 感想 :　 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">最近、何もわからないゾーンに突入した<br>（絵は拾い） <a href="https://t.co/U9oMbOspb2">pic.twitter.com/U9oMbOspb2</a></p>&mdash; Hanabi🎆花火 (@Hanabi7654321) <a href="https://twitter.com/Hanabi7654321/status/1340490464516952065?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">最近、何もわからないゾーンに突入した<br>（絵は拾い） <a href="https://t.co/U9oMbOspb2">pic.twitter.com/U9oMbOspb2</a></p>&mdash; Hanabi🎆花火 (@Hanabi7654321) <a href="https://twitter.com/Hanabi7654321/status/1340490464516952065?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote>
 
-  
+<br>
   ふと、やってることはまだまだ入門なんだと気づいてしまった。  
 登っている山のてっぺんはどれくらい上なんだろう？と見上げてみたら、分厚い雲がかかっていて全く先が見えない。  
 まだまだ遠いんだ、と思うとうんざりして眩暈がした。（小説風）
