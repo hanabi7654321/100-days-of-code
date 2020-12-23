@@ -163,6 +163,7 @@ Bootstrap使ってみました。すぐに今日から使いこなせる！と�
 - N予備校プログラミング入門（3-28 脆弱性、3-29 XSS対策、3-30 パスワードの脆弱性対策）
 - Bootstrap
 
+![password](https://github.com/hanabi7654321/100-days-of-code/blob/master/img/2020-12-24.jpg)
 
 #### 感想 :　 
 29日の最終授業までに追いつけばいいかと思っていたら、繰り上がって25日が最終日になったので急いでアーカイブ見てます。password hash とかsaltとか暗号も面白そう。
