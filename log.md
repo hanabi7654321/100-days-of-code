@@ -207,8 +207,6 @@ Merry Christmas!
 - freeCodeCamp(Applied Accessibility　50%)
 - JavaScript (Quiz)
 
-![JavaScript-Quiz](https://github.com/hanabi7654321/100-days-of-code/blob/master/img/2020-12-26.jpg)
-
 #### 感想 :　 
 Webフレームワークって便利そう！  
 3章でうんざりしてたけど、全部セットでスタートできるなら開発が楽ですね。授業ではExpressをやったけれど、最近人気なのはVue.jsとかReact.jsなのかな？よく目にする気がします。  
