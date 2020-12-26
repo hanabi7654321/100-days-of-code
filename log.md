@@ -205,11 +205,15 @@ Merry Christmas!
 #### 今日の進捗 : 
 - N予備校プログラミング入門（4-2 Web framework 、4-3 Express-API）
 - freeCodeCamp(Applied Accessibility　50%)
+- JavaScript (Quiz)
+
+![JavaScript-Quiz](https://github.com/hanabi7654321/100-days-of-code/blob/master/img/2020-12-26.jpg)
 
 #### 感想 :　 
 Webフレームワークって便利そう！  
 3章でうんざりしてたけど、全部セットでスタートできるなら開発が楽ですね。授業ではExpressをやったけれど、最近人気なのはVue.jsとかReact.jsなのかな？よく目にする気がします。  
+kindle unlimitedでVue.jsとReactの入門書を見つけたので、あとで読んでみる。
 
-kindle unlimitedでVue.jsとReactの入門書を見つけたので、あとで読んでみよう。
+コンテスト、どんなの作ろうか色々考えていますが、とりあえずクイズを作ってJavaScriptの練習してました。
 
 ***
