@@ -247,3 +247,17 @@ kindle unlimitedでVue.jsとReactの入門書を見つけたので、あとで�
 JavaScriptでクイズを作っているけど、なるべくコピペじゃなく、自分の頭で考えながらやろうと思う。簡単そう？なのにけっこう大変。うんうんうなりながらコード書いてます。
 
 ***
+***
+
+### 19日目:　 2020年12月29日（火）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- N予備校プログラミング入門（4-7 webpack 4-8 jQuery）
+- freeCodeCamp(Applied Accessibility　100%、Responsive Web Design Principles 100%)
+
+
+#### 感想 :　 
+webframeworkって便利だね、というのを理解しただけです。あと１か月でWebアプリ作れるのか？不安になってきた。
+
+***
