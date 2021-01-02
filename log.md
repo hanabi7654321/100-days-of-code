@@ -311,3 +311,24 @@ N予備校ではubuntuを使っていますが、サブマシンにはkali-linux
 調べながらなんとか出来ましたが、環境構築にはいつも時間がかかります。
 
 ***
+***
+
+### 23日目:　 2021年1月2日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- N予備校プログラミング入門（4-14 Index)
+- freeCodeCamp(CSS grid 50%)
+- Bootstrap
+- TryHackMe
+#### 感想 :　 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">N予備校、TryHackMe、ハッキングラボ・・・自分かと思った！笑<br>同じ2020年入門組初心者マーク <a href="https://t.co/HjzpFxpz39">https://t.co/HjzpFxpz39</a></p>&mdash; Hanabi🎆花火 (@Hanabi7654321) <a href="https://twitter.com/Hanabi7654321/status/1345258054158225410?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+　　
+同じ時期にスタートして、同じような道のりを歩んでいる仲間を発見してテンションが上がった！
+きっと同じように悩んだりしてるんだろうな、と想像しています。  
+
+Twitterにはつよつよな先輩たちもいるし、ネットにはその方たちの、初心者の時の勉強法も隠れている。  
+
+自分の才能のなさにうんざりしてやる気がなくなった時は、その手記たちを見てがんばろう。
+***
