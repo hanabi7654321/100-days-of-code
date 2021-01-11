@@ -440,3 +440,40 @@ node.jsでpython使いたいので調べたところ、python-shellというモ�
 
 今日はだるいな～と思ったら熱があったので、頭も働かないし早く寝ようと思います。コロナ怖い・・
 ***
+***
+
+### 31日目:　 2021年1月10日（日）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- N予備校プログラミング入門（4-24 開発9)
+
+
+#### 感想 :　 
+最後の最後に
+```
+The redirect_uri MUST match the registered callback URL for this application.
+```
+のエラー。設定見直したり最初からやり直したけど、GitHub認証がうまくリダイレクトされません。
+そんなこんなでモヤモヤしてるけど、なんとか入門コースの授業完走！笑  
+絶対、入門の内容じゃないけど、成長できた気がします。ありがとうございました。
+
+朝は熱が下がってたのに、夜になったら熱上がってきた。
+怖いんだけど・・
+***
+***
+
+### 32日目:　 2021年1月11日（月）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- Web Development
+- #Docker (windows)
+- #python
+
+#### 感想 :　 
+体調が良くなったので、色々動画見て環境設定したりしてました。
+
+I watched Youtube and did web development.
+There are a lot of great videos!
+***
