@@ -477,3 +477,15 @@ The redirect_uri MUST match the registered callback URL for this application.
 I watched Youtube and did web development.
 There are a lot of great videos!
 ***
+***
+
+### 33日目:　 2021年1月12日（火）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- #python
+
+#### 感想 :　 
+まったくやる気が出ない。こんな状態は久しぶりだけど、とりあえず１時間はプログラミングしようと思いました。
+ただ、pythonの環境設定がうまくいってないのかエラーだらけで、さらにやる気を失いました笑
+***
