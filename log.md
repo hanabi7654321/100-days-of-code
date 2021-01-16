@@ -516,3 +516,26 @@ Dockerを消して、新たに環境設定しようと思っています。
 あ、でもそろそろプログラミング勉強から10か月経過報告しなきゃ。
 まだ1年経ってないのか～。
 ***
+***
+
+### 36日目:　 2021年1月15日（金）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- Udemy(CSS animation)
+- #FreeCodeCamp(Responsive Web Design Projects - Build a Tribute Page)
+
+#### 感想 :　 
+Responsive Web Designの最後の方は実際にWeb pageを作ります。あと４つ作らないと。
+***
+***
+
+### 37日目:　 2021年1月16日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- #FreeCodeCamp(Responsive Web Design Projects - Build a Survey Form)
+
+#### 感想 :　 
+FreeCodeCampの課題で、お問合せフォーム作ってます。まだ途中！
+***
