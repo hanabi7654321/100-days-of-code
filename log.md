@@ -539,3 +539,15 @@ Responsive Web Designの最後の方は実際にWeb pageを作ります。あと
 #### 感想 :　 
 FreeCodeCampの課題で、お問合せフォーム作ってます。まだ途中！
 ***
+***
+
+### 38日目:　 2021年1月17日（日）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- #FreeCodeCamp(Responsive Web Design Projects - Build a Survey Form)
+- 環境構築
+
+#### 感想 :　 
+この前ぶっ壊れてしまった仮想環境を再構築。Docker for WindowsとVirtualBoxはバッティングするから両方は使えない、って今日買ったReactの本にも書いてた。こういう時、Windows不便だなと思うけど（費用対効果考えたらMacbook高すぎ）。
+***
