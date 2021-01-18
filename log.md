@@ -551,3 +551,16 @@ FreeCodeCampの課題で、お問合せフォーム作ってます。まだ途�
 #### 感想 :　 
 この前ぶっ壊れてしまった仮想環境を再構築。Docker for WindowsとVirtualBoxはバッティングするから両方は使えない、って今日買ったReactの本にも書いてた。こういう時、Windows不便だなと思うけど（費用対効果考えたらMacbook高すぎ）。
 ***
+***
+
+### 39日目:　 2021年1月18日（月）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+- #FreeCodeCamp(Responsive Web Design Projects - Build a  Product Landing Page)
+- Node.js 
+
+#### 感想 :　 
+　まだCSSちゃんとわかってないなー、と作りながら思った。もっとチャチャっと作れるようになりたい。
+最近、海外ドラマの新作がなくて寂しいな・・。海外旅行の予定もないし、いまいち英語勉強する気起きないよね（言い訳）
+***
