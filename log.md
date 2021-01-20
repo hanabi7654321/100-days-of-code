@@ -577,3 +577,19 @@ FreeCodeCampの課題で、お問合せフォーム作ってます。まだ途�
 #### 感想 :　 
 　Reactやってみてます。Vue.jsと迷ったけど、初心者なのでどっちからでもいいや、と思った。
 ***
+***
+
+### 41日目:　 2021年1月20日（水）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- #FreeCodeCamp(Responsive Web Design Projects - Build a  Product Landing Page)
+- React.js
+
+#### 感想 :　 
+
+ランディングページ、途中から面倒になって要素だけ満たして提出した。スマホサイズから作っていくべきだった・・。
+また今度作り直そう。
+
+***
