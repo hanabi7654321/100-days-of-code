@@ -640,3 +640,19 @@ N予備校の授業に間に合って、はじめて練習問題のプルリク�
 
 ReactでWebpackがうまくインストールできなくて、一時中断。色々いじってたらコマンドでlsの色がなくなって、それを調べたり直したり・・など。ほんと設定って難しい。
 ***
+***
+
+### 45日目:　 2021年1月24日（日）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Node.js
+
+#### 感想 :　 
+
+掲示板アプリを作りたいと思って、調べていました。たぶんセキュリティ対策なんて余裕ありません。
+
+I wanted to make a bulletin board application, so I was looking into it. Maybe I can't afford to take security measures.
+
+***
