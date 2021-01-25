@@ -656,3 +656,22 @@ ReactでWebpackがうまくインストールできなくて、一時中断。�
 I wanted to make a bulletin board application, so I was looking into it. Maybe I can't afford to take security measures.
 
 ***
+***
+
+### 46日目:　 2021年1月25日（月）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Web-App(Data modeling)
+
+#### 感想 :　 
+
+
+I made a database today.
+And now we have to make a module. 
+I'm not confident.
+
+行き当たりばったりでアプリ作ってる。とりあえずDB
+
+***
