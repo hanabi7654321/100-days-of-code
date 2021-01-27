@@ -690,3 +690,17 @@ I'm not confident.
 POSTの内容がうまく取得できません・・
 
 ***
+***
+
+### 48日目:　 2021年1月27日（水）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Web-App(node.js, Express, DB)
+
+#### 感想 :　 
+
+I'm looking into express and databases. Many people use MongoDB?
+
+***
