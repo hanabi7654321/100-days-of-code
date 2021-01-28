@@ -704,3 +704,19 @@ POSTの内容がうまく取得できません・・
 I'm looking into express and databases. Many people use MongoDB?
 
 ***
+***
+
+### 49日目:　 2021年1月28日（木）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Web-App(node.js, Express, DB)
+
+#### 感想 :　 
+promise rejections?
+I'm still fighting errors today. I have to complete the app and submit it to the contest by the end of this month.
+Impossible!?
+コンテスト締切り、間に合う気がしない
+
+***
