@@ -720,3 +720,19 @@ Impossible!?
 コンテスト締切り、間に合う気がしない
 
 ***
+***
+
+### 50日目:　 2021年1月29日（金）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Node.js express
+- N-school(Webpack)
+
+#### 感想 :　 
+
+I'm glad I learned webpack. I feel like something will be solved!
+
+Unknowingly reached half of 100 days
+***
