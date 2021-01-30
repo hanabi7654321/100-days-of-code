@@ -736,3 +736,20 @@ I'm glad I learned webpack. I feel like something will be solved!
 
 Unknowingly reached half of 100 days
 ***
+***
+
+### 51日目:　 2021年1月30日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Node.js express
+
+
+#### 感想 :　 
+
+やりたいことができなすぎて泣けてくる。もたもたしてるし！
+作りたいものが作れる人になりたい・・
+プログラミング難しい
+
+***
