@@ -753,3 +753,18 @@ Unknowingly reached half of 100 days
 プログラミング難しい
 
 ***
+***
+
+### 52日目:　 2021年1月31日（日）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- Web-app(Node.js express) ← completed!!
+
+
+#### 感想 :　 
+
+herokuの設定ファイルのパスが違ってたり、yarnとnpmどっちか捨てろ！って言われたり（!?）、最後のherokuデプロイでエラー連発でもうだめか、と思ったけどなんとかギリギリ完成した。よかった～
+
+***
