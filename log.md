@@ -817,3 +817,20 @@ Wordpressの投稿ブロック、ラクに色々できて楽しいよなーと�
 自由自在にオリジナルテーマが作れるようになるといいんだけどね。
 
 ***
+***
+
+### 56日目:　 2021年2月4日（木）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- FreeCodeCamp(HTML,CSS-Responsive Web Design)
+- JavaScript
+
+#### 感想 :　 
+
+'Responsive Web Design Certification' is the goal soon. One more page!
+
+今日のN予備校の座談会は後半だけ聞けた！
+アーカイブ出るの楽しみ
+***
