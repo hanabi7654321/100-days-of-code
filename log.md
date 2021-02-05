@@ -834,3 +834,19 @@ Wordpressの投稿ブロック、ラクに色々できて楽しいよなーと�
 今日のN予備校の座談会は後半だけ聞けた！
 アーカイブ出るの楽しみ
 ***
+***
+
+### 57日目:　 2021年2月5日（金）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- FreeCodeCamp(HTML,CSS-Responsive Web Design)
+- JavaScript
+
+#### 感想 :　 
+
+近所の日帰り温泉行ってきたら眠いです・・
+web pageはまだ途中
+
+***
