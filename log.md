@@ -850,3 +850,19 @@ Wordpressの投稿ブロック、ラクに色々できて楽しいよなーと�
 web pageはまだ途中
 
 ***
+***
+
+### 58日目:　 2021年2月6日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- FreeCodeCamp-Responsive Web Design Certification (300hours) ← complete!
+- JavaScript
+
+#### 感想 :　 
+
+近所の日帰り温泉行ってきたら眠いです・・
+web pageはまだ途中
+
+***
