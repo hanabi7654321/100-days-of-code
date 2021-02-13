@@ -966,3 +966,22 @@ N予備校のデザインコースをアーカイブで見ていました。順�
 
 
 ***
+***
+
+### 65日目:　 2021年2月13日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- N-school(Wordpress)
+
+#### 感想 :　 
+
+I was worried about my mother and wasn't motivated. 
+She likes alcohol too much. 
+How can she feel happy without alcohol?
+
+いろいろやる気おきんかった。
+
+地震こわい。コロナ以来すぐ、地球終わるんか！って思ってしまう
+***
