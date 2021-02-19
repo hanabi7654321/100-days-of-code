@@ -1060,3 +1060,18 @@ How can she feel happy without alcohol?
 あ、あとはじめてNieRっていうゲームやってみてた。グラフィックきれい
 
 ***
+***
+
+### 71日目:　 2021年2月19日（金）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- N予備校(Database  table-join)
+- FreeCodeCamp(Basic JavaScript 30%)
+
+#### 感想 :　 
+
+結合の仕方は理解できましたが、アプリのデータベース設計とか難しそうだなーと思いました。
+
+***
