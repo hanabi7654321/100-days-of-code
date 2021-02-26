@@ -1162,3 +1162,18 @@ How can she feel happy without alcohol?
 肩こりがひどいので、明日温泉にいこう
 
 ***
+***
+
+### 78日目:　 2021年2月26日（金）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- FreeCodeCampBasic JavaScript 63%)
+- N-school(Database5)
+
+#### 感想 :　 
+
+N予備校は、来週からアプリ作り。予習しないとついていけなそうだけど、授業楽しみです。
+
+***
