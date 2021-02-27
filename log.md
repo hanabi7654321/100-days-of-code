@@ -1177,3 +1177,19 @@ How can she feel happy without alcohol?
 N予備校は、来週からアプリ作り。予習しないとついていけなそうだけど、授業楽しみです。
 
 ***
+***
+
+### 79日目:　 2021年2月27日（土）<!DOCTYPE html>
+
+
+#### 今日の進捗 : 
+
+- SQL
+- jQuery
+
+#### 感想 :　 
+
+ProgateのWeb開発パス(Node.js)をやっています。
+N予備校も来週からアプリ作りだし！今日はSQLの復習。
+
+***
