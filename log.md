@@ -1499,4 +1499,20 @@ MapmapとかJSONとかピンと来てなかったので、予習の段階から�
 https://hanabi7654321.github.io/congrats/music.html
 
 ***
+***
 
+### 101日目:　 2021年3月21日（日）<!DOCTYPE html>
+
+#### 今日の進捗 : 
+
+- JavaScript(congrats-page)
+
+#### 感想 :　 
+
+2round 101日目に突入しました！
+慌てて作った昨日の拍手ボタンのデザインを直しました。
+今度は問題ないといいです！
+
+https://hanabi7654321.github.io/congrats/music.html
+
+***
