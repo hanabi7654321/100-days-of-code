@@ -1516,3 +1516,17 @@ https://hanabi7654321.github.io/congrats/music.html
 https://hanabi7654321.github.io/congrats/music.html
 
 ***
+***
+
+### 102日目:　 2021年3月22日（月）<!DOCTYPE html>
+
+#### 今日の進捗 : 
+
+- JavaScript(Promise)
+
+#### 感想 :　 
+
+JavaScript本格入門とJSPrimerの２本立てで勉強してますが、わかったようなわからないような・・・。明日早いから早く寝よう
+
+***
+
